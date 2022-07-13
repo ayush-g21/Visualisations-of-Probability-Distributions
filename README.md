@@ -15,7 +15,7 @@ The repository contains three files:
 The web app is deployed on the **Hugging Face Spaces**.
 <br>
 **Web App** <br>
-https://huggingface.co/spaces/mannjain/Probability_Distributions
+https://huggingface.co/ayush21/Probability-Distributions
 
 ### Screenshots
 
